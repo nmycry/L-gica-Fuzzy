@@ -1,1 +1,1 @@
-# L-gica-Fuzzy
+# Lógica-Fuzzy
